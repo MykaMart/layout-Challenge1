@@ -1,0 +1,109 @@
+
+header {
+	border: 0;
+	margin-left: -20px;
+	padding: 0;
+	height: 100px;
+}
+
+#logo-box {
+	background-color: pink;
+	display: block;
+	float: left;
+	height: 100px;
+	margin-bottom: 20px;
+	overflow: auto;
+	width: 20%;
+}
+
+#nav1 {
+	background-color: cadetblue;
+	display: inline-block;
+	float: right;
+	height: 50px;
+	margin-bottom: 20px;
+	margin-right: 25px;
+	margin-top: 25px;
+	vertical-align: middle;
+	width: 16%;
+}
+
+#nav2 {
+	background-color: cadetblue;
+	display: inline-block;
+	float: right;
+	height: 50px;
+	margin-bottom: 20px;
+	margin-right: 5px;
+	margin-top: 25px;
+	vertical-align: middle;
+	width: 16%;
+}
+
+#nav3 {
+	background-color: cadetblue;
+	display: inline-block;
+	float: right;
+	height: 50px;
+	margin-bottom: 20px;
+	margin-right: 5px;
+	margin-top: 25px;
+	vertical-align: middle;
+	width: 16%;
+}
+
+#nav4 {
+	background-color: cadetblue;
+	display: inline-block;
+	float: right;
+	height: 50px;
+	margin-bottom: 20px;
+	margin-right: 5px;
+	margin-top: 25px;
+	vertical-align: middle;
+	width: 16%;
+}
+#main {
+	background-color: purple;
+	float: left;
+	height: 300px;
+	margin-bottom: 15px;
+	margin-left: 20px;
+	width: 95%;
+}
+
+#sub-left {
+	background-color: orange;
+	float: left;
+	height: 125px;
+	margin-bottom: 10px;
+	margin-left: 20px;
+	width: 30%;
+}
+
+#sub-center {
+	background-color: yellow;
+	float: left;
+	height: 125px;
+	margin-bottom: 10px;
+	margin-left: 15px;
+	margin-right: 15px;
+	width: 30%;
+}
+
+#sub-right {
+	background-color: green;
+	float: right;
+	height: 125px;
+	margin-bottom: 10px;
+	margin-right: 25px;
+	width: 30%;
+}
+
+footer {
+	background-color: blue;
+	clear: both;
+	height: 100px;
+	margin-left: 20px;
+	width: 95%;
+}

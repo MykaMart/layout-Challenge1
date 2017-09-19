@@ -1,0 +1,26 @@
+header {
+	background-color: pink;
+	height: 100px;
+	margin-bottom: 20px;
+}
+
+#left {
+	background-color: red;
+	float: left;
+	height: 300px;
+	margin-bottom: 20px;
+	width: 65%;
+}
+
+#right {
+	background-color: green;
+	float: right;
+	height: 300px;
+	margin-bottom: 20px;
+	width: 33%;
+}
+footer {
+	background-color: blue;
+	clear: both;
+	height: 100px;
+}
